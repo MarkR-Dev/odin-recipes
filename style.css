@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(186, 73, 73);
+    color: white;
+}
+
+img {
+    border: 3px solid black;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h4 {
+    text-decoration: underline;
+}
